@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @niv-csc
+### Hi i'm Nivriti,
 - 👀 I’m interested in programming and data science
-- 🌱 I’m currently an undergraduate learning computer science engineering
+- 🌱 I’m currently an undergraduate learning computer science engineering at [MIT(Madras Institute of Tecnology)](https://www.mitindia.edu/)
 - ✨ I possess a foundational understanding of Python programming.
 - 💞️ I’m looking to collaborate on many projects regarding datascience and programming 
-- 📫 How to reach me - nivriti3266@gmail.com
+  
 
 
 <!---
