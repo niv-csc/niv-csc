@@ -1,4 +1,4 @@
->  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  **Hi i'm Nivriti,** 
+>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  **Hi i'm Nivriti Muthuvairavan,** 
 >  ### ___________________________________________________________________
 > - 👀 I’m interested in programming and data science
 > - 🌱 I’m currently an undergraduate learning computer science engineering at [MIT(Madras Institute of Technology)](https://www.mitindia.edu/)
