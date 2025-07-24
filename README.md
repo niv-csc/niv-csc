@@ -3,7 +3,7 @@
   -------------------------------------------------------------------------------------------------------------------------------
   ---
 
-♦***I’m interested in programming and quantum science***<br/>
+♦***I’m interested in programming,gaming and quantum science***<br/>
 ♦ ***I’m currently an undergraduate learning computer science engineering at [MIT(Madras Institute of Technology)](https://www.mitindia.edu/)*** <br/>
 ♦ ***I possess a foundational understanding of Python, HTML,MYSQL,C++,C and Java*** <br/>
 ♦ ***I’m looking to collaborate on many projects regarding quantum science and programming*** <br/>
