@@ -21,7 +21,7 @@
 
  ![image](https://img.shields.io/badge/CONTACT_ME_AT-nivriti3266@gmail.com-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
-
+![](https://github.com/niv-csc/niv-csc/blob/main/pac.gif) <br/>
 ♦  ***GitHub Stats:***  <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=niv-csc&theme=dark&hide_border=true&include_all_commits=true&count_private=false)![](https://github.com/niv-csc/niv-csc/blob/main/pixel-cat.gif)
