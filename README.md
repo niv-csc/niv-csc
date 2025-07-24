@@ -1,11 +1,11 @@
   ***Hi i'm Nivriti Muthuvairavan,*** <br/>
- **______________________________________________________________________________________________________________________________________**<br/>
+ **_____________________________________________________________________________________________________________________________________**<br/>
 
 ♦***I’m interested in programming and quantum science***<br/>
 ♦ ***I’m currently an undergraduate learning computer science engineering at [MIT(Madras Institute of Technology)](https://www.mitindia.edu/)*** <br/>
 ♦ ***I possess a foundational understanding of Python, HTML,MYSQL,C++,C and Java*** <br/>
 ♦ ***I’m looking to collaborate on many projects regarding quantum science and programming*** <br/>
-**______________________________________________________________________________________________________________________________________**<br/>
+**_____________________________________________________________________________________________________________________________________**<br/>
 
  
 ♦ ***Tech Stack:*** <br/>
@@ -18,7 +18,8 @@
 
  ![image](https://img.shields.io/badge/CONTACT_ME_AT-nivriti3266@gmail.com-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
-**______________________________________________________________________________________________________________________________________**<br/>
+**_____________________________________________________________________________________________________________________________________**<br/>
+
 ♦  ***GitHub Stats:***  <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=niv-csc&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
