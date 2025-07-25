@@ -24,8 +24,7 @@
 ![](https://github.com/niv-csc/niv-csc/blob/main/pac.gif) <br/>
 ♦  ***GitHub Stats:***  <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=niv-csc&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-<br/>![](https://nirzak-streak-stats.vercel.app/?user=niv-csc&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=niv-csc&theme=dark&hide_border=true)]
 <br/>![](https://github-contributor-stats.vercel.app/api?username=niv-csc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://github.com/niv-csc/niv-csc/blob/main/dino.gif)
 
