@@ -1,7 +1,7 @@
 
   ***Hi I'm Nivriti Muthuvairavan,*** <br/>
   --------------------------------------------------------------------------------------------------------------------------
-  ---
+  
 
 ♦***I’m interested in programming,gaming and quantum science***<br/>
 ♦ ***I’m currently an undergraduate learning computer science engineering at [MIT(Madras Institute of Technology)](https://www.mitindia.edu/)*** <br/>
