@@ -10,7 +10,10 @@
 
 ---
 
- 
+
+
+
+
 ♦ ***Tech Stack:*** <br/>
 
  ![image](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![image](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br/>
@@ -18,7 +21,7 @@
 <img src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 
-
+ ![Profile views](https://komarev.com/ghpvc/?username=niv-csc&color=000000)
  ![image](https://img.shields.io/badge/CONTACT_ME_AT-nivriti3266@gmail.com-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
 ![](https://github.com/niv-csc/niv-csc/blob/main/pac.gif) <br/>
