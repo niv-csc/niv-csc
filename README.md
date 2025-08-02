@@ -29,7 +29,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=niv-csc&theme=dark&hide_border=true)
 <br/>![](https://github-contributor-stats.vercel.app/api?username=niv-csc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![snake gif](https://github.com/niv-csc/niv-csc/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/niv-csc/niv-csc/blob/output/github-snake.svg)
 
 
 
