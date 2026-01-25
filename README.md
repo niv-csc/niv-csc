@@ -28,6 +28,8 @@
 ♦  ***GitHub Stats:***  <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=niv-csc&theme=dark&hide_border=true)
+<br/>♦ ***Most Used Languages:*** <br/>
+<br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv-csc&layout=compact&theme=dark&hide_border=true)
 <br/>![](https://github-contributor-stats.vercel.app/api?username=niv-csc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![snake gif](https://github.com/niv-csc/niv-csc/blob/output/github-snake.svg)
 
