@@ -1,12 +1,11 @@
-
-  ***Hi I'm Nivriti Muthuvairavan,*** <br/>
-  --------------------------------------------------
+***Hi I'm Nivriti Muthuvairavan,*** <br/>
+--------------------------------------------------
   
 
-♦***I’m interested in programming,gaming and quantum science***<br/>
-♦ ***I’m currently an undergraduate learning computer science engineering at [MIT(Madras Institute of Technology)](https://www.mitindia.edu/)*** <br/>
-♦ ***I possess a foundational understanding of Python, HTML,MYSQL,C++,C and Java*** <br/>
-♦ ***I’m looking to collaborate on many projects regarding quantum science and programming*** <br/>
+♦***I’m interested in post-quantum cryptography, secure networked systems, applied machine learning and quantum computing***<br/>
+♦ ***I’m currently an undergraduate studying Computer Science and Engineering at [MIT (Madras Institute of Technology), Anna University](https://www.mitindia.edu/)*** <br/>
+♦ ***I’m currently exploring ML-KEM, privacy-preserving computing, network anomaly detection and quantum computing*** <br/>
+♦ ***I’m interested in developing research-oriented projects at the intersection of security, networking, machine learning and quantum technologies*** <br/>
 
 ---
 
@@ -32,20 +31,6 @@
 <br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niv-csc&layout=compact&theme=dark&hide_border=true)
 <br/>![](https://github-contributor-stats.vercel.app/api?username=niv-csc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![snake gif](https://github.com/niv-csc/niv-csc/blob/output/github-snake.svg)
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
 <!---
 niv-csc/niv-csc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
